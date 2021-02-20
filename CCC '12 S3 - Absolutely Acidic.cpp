@@ -64,8 +64,6 @@ int main() {
 			a = abs(mostFreq[0] - mostSecFreq[mostSecFreq.size() -1]);
 		}
 	}
-
-
-
+	
 	cout << a;
 }
