@@ -1,3 +1,7 @@
+/**
+ *    Author: Eric Karpovis
+**/
+
 #include <iostream>
 #include <stack>
 
