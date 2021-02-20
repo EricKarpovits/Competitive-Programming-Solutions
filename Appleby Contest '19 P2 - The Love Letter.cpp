@@ -1,3 +1,8 @@
+/**
+ *    Author: Eric Karpovis
+ *    Problem Link: https://dmoj.ca/problem/ac19p2
+**/
+
 #include <bits/stdc++.h>
 
 using namespace std; 
@@ -23,6 +28,3 @@ int main() {
 	}
 	cout << letter; 
 }
-
-
-
