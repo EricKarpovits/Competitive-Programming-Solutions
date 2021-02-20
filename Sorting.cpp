@@ -1,4 +1,7 @@
-#include <iostream>
+/**
+ *    Author: Eric Karpovis
+**/
+
 #include <bits/stdc++.h> 
 
 using namespace std;
