@@ -1,5 +1,7 @@
-#include<iostream>
-#include <vector>
+/**
+ *    Author: Eric Karpovis
+**/
+
 #include <bits/stdc++.h> 
 
 using namespace std;
