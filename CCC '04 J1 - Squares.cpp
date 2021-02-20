@@ -1,3 +1,8 @@
+/**
+ *    Author: Eric Karpovis
+ *    Problem Link: https://dmoj.ca/problem/ccc04j1
+**/
+
 #include <iostream>
 #include <math.h>
 
