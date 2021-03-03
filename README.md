@@ -1,4 +1,4 @@
-# Competitive-Programming-Solutions
+# Competitive-Programming-Solutions - Eric Karpovits
 
 <p align="center">
   <a href="https://github.com/EricKarpovits/">
